@@ -252,8 +252,18 @@ C++ DSA Algorithms Optimization
 10 ── 📈 CONTRIBUTION MATRIX
 <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman0071232&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF&area=true&hide_border=true&custom_title=Aman's%20Contribution%20Activity" width="95%"/> </div>
 <div align="center">
-11 ── 🐍 CONTRIBUTION SNAKE
-<br> <img src="https://raw.githubusercontent.com/aman0071232/aman0071232/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%"/> </div>
+
+# `11` ── 🐍 CONTRIBUTION SNAKE
+
+<br>
+
+<img
+  src="https://raw.githubusercontent.com/aman0071232/aman0071232/gh-pages/github-contribution-grid-snake.svg"
+  alt="Aman's GitHub Contribution Snake"
+  width="95%"
+/>
+
+</div>
 <div align="center">
 12 ── 🌱 LEARNING NEVER STOPS
 <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Every+project+teaches+something.;Every+bug+reveals+something.;Every+challenge+builds+something.;Every+iteration+makes+something+better." alt="Learning Animation"/>
