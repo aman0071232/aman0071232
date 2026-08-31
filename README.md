@@ -1,340 +1,399 @@
 <div align="center">
 
-# ✦ AMAN GUPTA ✦
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:161B22,75:1F6FEB,100:238636&text=AMAN%20GUPTA&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20%7C%20FULL%20STACK&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### `Software Developer • AI/ML Enthusiast • Problem Solver`
+<br>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+ideas+into+impactful+software;Exploring+AI%2C+Data+%26+Full-Stack+Development;Turning+complex+problems+into+simple+solutions;Learning+continuously.+Building+consistently."
-  alt="Typing Animation"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=%E2%9C%A6+Building+ideas+into+impactful+software;%E2%9C%A6+Exploring+Artificial+Intelligence+%26+Machine+Learning;%E2%9C%A6+Engineering+modern+full-stack+experiences;%E2%9C%A6+Solving+problems+through+code+%26+creativity;%E2%9C%A6+Learn.+Build.+Improve.+Repeat." alt="Typing Animation"/>
 
-<br/>
+<br><br>
 
 <a href="https://github.com/aman0071232">
-  <img src="https://img.shields.io/github/followers/aman0071232?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=161B22" />
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+&nbsp;
 <a href="https://github.com/aman0071232?tab=repositories">
-  <img src="https://img.shields.io/github/stars/aman0071232?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=161B22" />
+<img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&logo=github&logoColor=238636"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=120&section=header"
-  width="100%"
-/>
+<img src="https://komarev.com/ghpvc/?username=aman0071232&label=PROFILE%20VIEWS&color=161B22&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
-
-# 👋 About Me
 
 <div align="center">
 
-### `Curiosity → Engineering → Innovation → Impact`
+# `01` ── ✦ WHO AM I?
 
 </div>
-
-I'm **Aman Gupta**, a software developer passionate about building practical, intelligent, and scalable technology.
-
-I enjoy transforming ideas into working products, solving challenging problems, and continuously exploring new areas of software engineering.
-
-My interests lie at the intersection of:
-
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 💻 **Full-Stack Development**
-- 📊 **Data & Analytics**
-- 🧩 **Data Structures & Algorithms**
-- 🚀 **Product Development & Innovation**
-
-I believe that strong engineering is not just about writing code — it's about **understanding the problem, designing the right solution, and creating something that delivers real value.**
-
----
-
-# ⚡ What I Do
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-### 🤖 Artificial Intelligence
+## 👋 Hello, I'm Aman.
 
-Exploring intelligent systems, machine learning, computer vision, and AI-powered applications.
+I'm a **Software Developer** passionate about creating intelligent, scalable, and meaningful software solutions.
 
-</td>
+I enjoy taking an idea from:
 
-<td width="50%">
+**💡 Concept → 🧠 Architecture → 💻 Code → 🧪 Testing → 🚀 Product**
 
-### 🌐 Full-Stack Development
+My technical interests include **Artificial Intelligence, Machine Learning, Full-Stack Development, Data Analytics, and Data Structures & Algorithms.**
 
-Building modern, responsive, and scalable web applications from frontend to backend.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧩 Problem Solving
-
-Strengthening algorithmic thinking through Data Structures & Algorithms and competitive programming.
+I'm particularly interested in building technology that doesn't simply work — but **solves a meaningful problem and creates a better experience for its users.**
 
 </td>
 
-<td width="50%">
+<td width="40%" align="center">
 
-### 🚀 Innovation
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=238636&center=true&vCenter=true&width=330&height=120&lines=Code+%E2%86%92+Create;Ideas+%E2%86%92+Products;Problems+%E2%86%92+Solutions;Learning+%E2%86%92+Growth" alt="Developer Animation"/>
 
-Turning ideas, prototypes, and hackathon concepts into practical software solutions.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧠 My Development Philosophy
-
-<div align="center">
-
-> ### **Think deeply. Build intelligently. Iterate relentlessly.**
-
-</div>
-
-I enjoy working on problems where technology can simplify complexity, automate repetitive processes, uncover useful insights, or create better user experiences.
+<br>
 
 text
-                         ┌───────────────┐
-                         │     IDEA      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     THINK     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     BUILD     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │      TEST     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    IMPROVE    │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     IMPACT    │
-                         └───────────────┘
+╭────────────────────╮
+│  ⚡ BUILD           │
+│  ◈ LEARN           │
+│  ◆ EXPLORE         │
+│  ✦ INNOVATE        │
+│  ⌁ REPEAT          │
+╰────────────────────╯
 
-
-
-🛠️ Technology Stack
+</td> </tr> </table>
 <div align="center">
-💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css" />
-
-<br/><br/>
-
-🌐 Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,vscode" />
-
-<br/><br/>
-
-🤖 AI / Data
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python" /> </div>
-🚀 What I'm Building
-<table> <tr> <td align="center" width="25%">
+02 ── ⚡ WHAT I DO
+</div> <table> <tr> <td align="center" width="25%">
 🤖
+AI / ML
 
-AI Applications
-
-Intelligent systems designed to automate processes and solve real-world problems.
-
-</td> <td align="center" width="25%">
-📊
-
-Data Projects
-
-Data-driven applications focused on analytics, insights, and decision making.
+Building and exploring intelligent systems, machine learning solutions, and AI-powered applications.
 
 </td> <td align="center" width="25%">
 🌐
+FULL STACK
 
-Full-Stack Apps
-
-Modern applications with intuitive interfaces and reliable backend systems.
+Developing modern web applications with clean interfaces, reliable backends, and scalable architecture.
 
 </td> <td align="center" width="25%">
 🧩
+PROBLEM SOLVING
 
-DSA & CP
+Strengthening algorithmic thinking through DSA, optimization, and competitive programming.
 
-Algorithmic problem solving with a focus on efficiency and optimization.
+</td> <td align="center" width="25%">
+🚀
+INNOVATION
+
+Turning ideas and prototypes into practical solutions through projects and hackathons.
 
 </td> </tr> </table>
-🎯 Current Focus
 <div align="center">
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   ◉ Strengthening Data Structures & Algorithms            ║
-║                                                           ║
-║   ◉ Building production-oriented applications             ║
-║                                                           ║
-║   ◉ Exploring AI / ML and intelligent systems              ║
-║                                                           ║
-║   ◉ Improving software architecture & engineering          ║
-║                                                           ║
-║   ◉ Building impactful hackathon & collaborative projects  ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+03 ── 🧠 ENGINEERING MINDSET
+<br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=%22Think+deeply.+Build+intelligently.+Iterate+relentlessly.%22;%22Great+software+starts+with+a+great+understanding+of+the+problem.%22;%22Every+bug+is+another+opportunity+to+understand+the+system.%22" alt="Philosophy Animation"/> </div> <br>
+                         ╭───────────────╮
+                         │      💡       │
+                         │     IDEA      │
+                         ╰───────┬───────╯
+                                 │
+                                 ▼
+                         ╭───────────────╮
+                         │      🧠       │
+                         │     THINK     │
+                         ╰───────┬───────╯
+                                 │
+                                 ▼
+                         ╭───────────────╮
+                         │      ⚙️       │
+                         │     BUILD     │
+                         ╰───────┬───────╯
+                                 │
+                                 ▼
+                         ╭───────────────╮
+                         │      🧪       │
+                         │      TEST     │
+                         ╰───────┬───────╯
+                                 │
+                                 ▼
+                         ╭───────────────╮
+                         │      🔧       │
+                         │    IMPROVE    │
+                         ╰───────┬───────╯
+                                 │
+                                 ▼
+                         ╭───────────────╮
+                         │      🚀       │
+                         │     IMPACT    │
+                         ╰───────────────╯
+<div align="center">
+04 ── 🛠️ TECHNOLOGY UNIVERSE
+💻 Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css&perline=6" />
+
+<br><br>
+
+🌐 Full-Stack Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,vscode&perline=8" />
+
+<br><br>
+
+🤖 AI • ML • Computer Vision
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=4" />
+
+<br><br>
+
+☁️ Tools & Workflow
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&perline=6" /> </div>
+<div align="center">
+05 ── 🚀 WHAT I'M BUILDING
+</div> <table> <tr> <td width="50%" valign="top">
+🤖 AI-Powered Applications
+
+Designing intelligent applications that combine software engineering with machine learning and automation.
+
+Focus
+
+AI ML Automation Computer Vision
+
+</td> <td width="50%" valign="top">
+🌐 Full-Stack Platforms
+
+Building responsive and scalable applications with modern frontend and backend technologies.
+
+Focus
+
+React Node.js Express MongoDB
+
+</td> </tr> <tr> <td width="50%" valign="top">
+📊 Data-Driven Solutions
+
+Working with data to uncover patterns, generate insights, and support better decisions.
+
+Focus
+
+Python SQL Analytics Visualization
+
+</td> <td width="50%" valign="top">
+🧩 Algorithmic Problem Solving
+
+Continuously improving problem-solving ability through algorithms, optimization, and DSA.
+
+Focus
+
+C++ DSA Algorithms Optimization
+
+</td> </tr> </table>
+<div align="center">
+06 ── 🎯 CURRENT MISSION
+<br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=800&color=238636&center=true&vCenter=true&width=750&lines=Mastering+DSA+%26+Algorithmic+Thinking;Building+Production-Ready+Applications;Exploring+AI%2FML+%26+Intelligent+Systems;Improving+Software+Architecture;Creating+Impactful+Hackathon+Projects" alt="Current Focus Animation"/> </div> <br>
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ◉  MASTER       →  Data Structures & Algorithms            ║
+║                                                              ║
+║   ◉  BUILD        →  Production-oriented applications        ║
+║                                                              ║
+║   ◉  EXPLORE      →  AI / ML & intelligent systems           ║
+║                                                              ║
+║   ◉  IMPROVE      →  Architecture & engineering              ║
+║                                                              ║
+║   ◉  CREATE       →  Hackathon & collaborative projects      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+<div align="center">
+07 ── 📌 DEVELOPMENT ROADMAP
 </div>
-📊 GitHub Analytics
+                    SOFTWARE ENGINEERING
+                            │
+          ┌─────────────────┼─────────────────┐
+          ▼                 ▼                 ▼
+       FRONTEND          BACKEND             DSA
+          │                 │                 │
+          ▼                 ▼                 ▼
+       REACT            NODE.JS           ALGORITHMS
+          │                 │                 │
+          └────────────┬────┴────┬────────────┘
+                       │         │
+                       ▼         ▼
+                    DATABASE    SYSTEMS
+                       │         │
+                       └────┬────┘
+                            │
+                            ▼
+                       AI / ML
+                            │
+                            ▼
+                       REAL-WORLD
+                       APPLICATIONS
+                            │
+                            ▼
+                         IMPACT 🚀
 <div align="center">
+08 ── 📊 GITHUB COMMAND CENTER
+<br> <img src="https://github-readme-stats.vercel.app/api?username=aman0071232&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github&custom_title=Aman's%20GitHub%20Statistics" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman0071232&layout=compact&langs_count=8&hide_border=true&theme=github_dark&custom_title=Most%20Used%20Languages" height="180"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aman0071232&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Aman's GitHub Statistics" />
+<br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman0071232&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Aman's Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman0071232&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/> </div>
+<div align="center">
+09 ── 🏆 GITHUB TROPHIES
+<br> <img src="https://github-profile-trophy.vercel.app/?username=aman0071232&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/> </div>
+<div align="center">
+10 ── 📈 CONTRIBUTION MATRIX
+<br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman0071232&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF&area=true&hide_border=true&custom_title=Aman's%20Contribution%20Activity" width="95%"/> </div>
+<div align="center">
+11 ── 🐍 CONTRIBUTION SNAKE
+<br> <img src="https://raw.githubusercontent.com/aman0071232/aman0071232/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="95%"/> </div>
+<div align="center">
+12 ── 🌱 LEARNING NEVER STOPS
+<br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Every+project+teaches+something.;Every+bug+reveals+something.;Every+challenge+builds+something.;Every+iteration+makes+something+better." alt="Learning Animation"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman0071232&theme=github-dark-blue&hide_border=true" alt="Aman's GitHub Streak" />
-
+Learn → Build → Fail → Debug → Improve → Repeat
 </div>
-🐍 Contribution Journey
 <div align="center">
+13 ── 💫 PRINCIPLES I CODE BY
+</div> <table> <tr> <td align="center" width="33%">
+◈ 01
 
-<img src="https://raw.githubusercontent.com/aman0071232/aman0071232/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+SIMPLICITY
 
-</div>
-🌱 Always Learning
+Make complex things easier to understand.
+
+</td> <td align="center" width="33%">
+◈ 02
+
+QUALITY
+
+Write code that is readable, maintainable, and purposeful.
+
+</td> <td align="center" width="33%">
+◈ 03
+
+CURIOSITY
+
+Keep questioning, exploring, and learning.
+
+</td> </tr> <tr> <td align="center" width="33%">
+◈ 04
+
+CONSISTENCY
+
+Small improvements compound into great results.
+
+</td> <td align="center" width="33%">
+◈ 05
+
+IMPACT
+
+Build technology that solves meaningful problems.
+
+</td> <td align="center" width="33%">
+◈ 06
+
+GROWTH
+
+Treat every challenge as an opportunity to improve.
+
+</td> </tr> </table>
 <div align="center">
-Learn → Build → Fail → Improve → Repeat
-</div>
+14 ── 🚀 PROJECT LAB
+<br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=238636&center=true&vCenter=true&width=650&lines=Ideas+become+experiments.;Experiments+become+projects.;Projects+become+experience." alt="Project Animation"/>
 
-I don't believe software development has a finish line.
+<br><br>
 
-Every project is an opportunity to learn something new — a better algorithm, a cleaner architecture, a smarter solution, or simply a better way to approach a problem.
-
-My goal is to keep improving not only what I build, but also how I think, design, and solve problems.
-
-💡 Areas I'm Exploring
+<a href="https://github.com/aman0071232?tab=repositories"> <img src="https://img.shields.io/badge/%E2%9C%A6%20EXPLORE%20ALL%20PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> </div>
 <div align="center">
-Area	Exploring
-🤖	Artificial Intelligence & Machine Learning
-🧠	Intelligent Systems
-🌐	Full-Stack Engineering
-📊	Data Analytics
-⚡	Algorithms & Optimization
-🏗️	Software Architecture
-🚀	Product & Hackathon Development
-</div>
-🏆 Achievements & Highlights
+15 ── 🌌 BEYOND THE CODE
+<br>
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│        I don't just want to write code.              │
+│                                                      │
+│        I want to understand problems.                │
+│        I want to design better solutions.            │
+│        I want to build useful products.               │
+│        I want to keep learning.                       │
+│        I want to create meaningful impact.             │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+<br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Stay+curious.;%E2%97%86+Keep+building.;%E2%97%88+Keep+solving.;%E2%9C%A7+Keep+growing." alt="Closing Animation"/> </div>
 <div align="center">
-🚀 Building Projects
-🧩 Solving Problems
-🤖 Exploring AI
-💡 Participating in Innovation
-📚 Learning Continuously
-</div>
+16 ── 🤝 LET'S CONNECT
+<br> <a href="https://github.com/aman0071232"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a>
 
-More achievements, certifications, hackathons, and competitive-programming milestones will be added here as the journey continues.
+ 
 
-📌 Featured Projects
-<div align="center">
-🔥 Explore My Work
-<br/> <a href="https://github.com/aman0071232?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br/>
+<a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a>
 
-My repositories contain projects, experiments, problem-solving implementations, and applications that reflect my learning journey and engineering interests.
+ 
 
-💻 Coding Journey
-<div align="center">
-       ┌───────────────────────┐
-       │    LEARN SOMETHING    │
-       └───────────┬───────────┘
-                   │
-                   ▼
-       ┌───────────────────────┐
-       │      BUILD WITH IT    │
-       └───────────┬───────────┘
-                   │
-                   ▼
-       ┌───────────────────────┐
-       │     SOLVE PROBLEMS    │
-       └───────────┬───────────┘
-                   │
-                   ▼
-       ┌───────────────────────┐
-       │      SHARE & ITERATE  │
-       └───────────┬───────────┘
-                   │
-                   ▼
-       ┌───────────────────────┐
-       │       GROW AGAIN      │
-       └───────────────────────┘
-</div>
-🤝 Let's Connect
-<div align="center"> <a href="https://github.com/aman0071232"> <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/> </a> <a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a> </div>
-<div align="center"> <br/>
-✦ Building today. Learning tomorrow. Creating for the future. ✦
-<br/>
+<a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/> </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:161B22,100:0D1117&height=120&section=footer" width="100%" />
+<br><br>
 
-<sub> Designed with curiosity • Built with code • Driven by continuous improvement </sub>
+<a href="https://github.com/aman0071232?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-238636?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> </div>
+<div align="center"> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,40:1F6FEB,70:161B22,100:0D1117&height=170&section=footer&animation=fadeIn" width="100%"/>
+✦ BUILD.   LEARN.   INNOVATE.   IMPACT. ✦
+<br> <sub>
 
-<br/><br/>
+Designed with curiosity • Engineered with purpose • Driven by continuous improvement
 
-<img src="https://komarev.com/ghpvc/?username=aman0071232&style=for-the-badge&color=161B22&label=PROFILE+VIEWS" /> </div> ```
-⚠️ Before you click Commit changes
+</sub>
 
-There are only 2 things you must change:
+<br><br>
 
-1. LinkedIn
+<img src="https://komarev.com/ghpvc/?username=aman0071232&style=flat-square&color=161B22&label=Thanks+for+visiting!"/> </div> ```
+🔥 IMPORTANT: change only these 2 things
 
-Find:
+Before committing, search inside the code for:
 
-<a href="YOUR_LINKEDIN_URL">
+YOUR_LINKEDIN_URL
 
-and replace it with your actual LinkedIn URL.
+and replace it with your actual LinkedIn.
 
-For example:
+Then search:
 
-<a href="https://www.linkedin.com/in/your-name/">
-2. Email
-
-Find:
-
-<a href="mailto:YOUR_EMAIL@example.com">
+YOUR_EMAIL@example.com
 
 and replace it with your actual email.
 
-For example:
+Everything else can remain as-is for now.
 
-<a href="mailto:aman@example.com">
-🐍 One important thing about the snake
+⚠️ One thing about the animations
 
-The README contains:
+The README itself is complete, but the 🐍 Contribution Snake requires a GitHub Actions workflow. Otherwise that particular image may appear broken.
 
-<img
-  src="https://raw.githubusercontent.com/aman0071232/aman0071232/output/github-contribution-grid-snake.svg"
-/>
+Create this file in your repository:
 
-That will not work until you create the GitHub Actions workflow that generates the snake animation.
+.github/workflows/snake.yml
 
-So don't worry if it initially shows a broken image.
+with:
 
-I can give you the second required file:
+name: Generate Contribution Snake
 
-.github/
-└── workflows/
-    └── snake.yml
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
